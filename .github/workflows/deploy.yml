@@ -2,7 +2,7 @@ name: AWS Secure Deployment via OIDC
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 permissions:
   id-token: write
